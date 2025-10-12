@@ -604,3 +604,6 @@ history的实现方式也非常简单，在家目录中有一个隐藏文件，�
 
 ### 编辑模式命令
 ![alt text](image-35.png)
+
+### 模式切换
+![alt text](image-32.png)
